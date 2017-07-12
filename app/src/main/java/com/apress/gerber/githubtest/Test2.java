@@ -5,4 +5,5 @@ package com.apress.gerber.githubtest;
  */
 
 public class Test2 {
+
 }
