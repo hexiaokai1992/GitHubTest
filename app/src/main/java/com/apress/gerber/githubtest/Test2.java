@@ -6,4 +6,6 @@ package com.apress.gerber.githubtest;
 
 public class Test2 {
 
+    //假装一些代码
+
 }
